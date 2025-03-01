@@ -33,3 +33,5 @@ zipp==3.20.2
 gunicorn
 flask-cors
 python-dotenv
+supabase
+asyncpg
